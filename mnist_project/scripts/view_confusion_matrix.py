@@ -5,10 +5,10 @@ import matplotlib.pyplot as plt
 
 # input
 attack_method = "fgsm"     # "fgsm", "pgd"
-epsilon = 0              # epsilon value (use 0 for clean)
-model_type = "robust_cnn"  # "simple_mlp", "simple_cnn", "robust_cnn"
-epoch = 8
-trial = 3
+epsilon = 0.05            # epsilon value (use 0 for clean)
+model_type = "simple_mlp"  # "simple_mlp", "simple_cnn", "robust_cnn"
+epoch = 10
+trial = 2
 
 if epsilon == 0 or attack_method.lower() == "clean":
     folder_name = "clean"
