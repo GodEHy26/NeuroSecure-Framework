@@ -6,9 +6,9 @@ NeuroSecure is a research-oriented framework developed in Java, designed to quan
 This project was developed by a team of three to bridge the gap between **Multivariable Calculus** and **Robust Software Engineering**.
 
 ##  The Team
-* **Laith Muflahi-Isley**: Lead Technical Architect. Responsible for the Core Engine, JVM optimization, and Matrix logic.
+* **Ethan Hahn**: Lead Technical Architect. Responsible for the Core Engine, JVM optimization, and Matrix logic.
 * **Laith Muflahi-Isley** Theoretical Lead. Responsible for mathematical proofs, gradient derivations, and LaTeX documentation.
-* **Laith Muflahi-Isley**: Research Analyst. Responsible for benchmarking, data visualization, and saliency mapping.
+* **Tejas Chan**: Research Analyst. Responsible for benchmarking, data visualization, and saliency mapping.
 
 ## Key Features
 * **Custom Linear Algebra Engine:** High-performance matrix operations built from scratch in Java to ensure total transparency of the backpropagation process.
