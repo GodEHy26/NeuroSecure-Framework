@@ -1,1 +1,12 @@
 .venv/
+__pycache__/
+*.pyc
+
+# MNIST is downloaded automatically by torchvision
+data/
+
+# Trained weights are distributed as a GitHub release asset (see README)
+*.pth
+
+# macOS
+.DS_Store
